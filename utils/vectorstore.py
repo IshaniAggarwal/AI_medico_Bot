@@ -8,8 +8,6 @@ Supports
 1. FAISS
 2. ChromaDB
 
-Author : Himanshu Rajak
-Project : AI Medico Bot
 """
 
 import shutil

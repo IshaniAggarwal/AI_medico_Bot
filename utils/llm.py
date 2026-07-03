@@ -1,18 +1,3 @@
-"""
-llm.py
----------------------------------------------------------
-LLM Manager
-
-Supports
-
-1. Google Gemini
-2. Ollama (Local Only)
-
-Automatically detects whether Ollama is available.
-
-Author : Himanshu Rajak
-Project : AI Medico Bot
-"""
 
 import os
 from dotenv import load_dotenv

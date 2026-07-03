@@ -1,9 +1,3 @@
-"""
-AI Medico Bot Utilities
-
-Author : Himanshu Rajak
-"""
-
 from .loader import PDFLoader
 from .splitter import DocumentSplitter
 from .embeddings import EmbeddingModel
