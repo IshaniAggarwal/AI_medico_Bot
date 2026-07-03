@@ -1,24 +1,3 @@
-"""
-=========================================================
-AI Medico Bot
----------------------------------------------------------
-Intelligent Medical Report Assistant
-
-Features
----------
-• Upload Medical Reports
-• Google Gemini & Ollama Support
-• FAISS & ChromaDB
-• Multiple Embedding Models
-• Medical Report Summary
-• Medical Q&A
-• Explain Medical Terms
-• Questions for Doctor
-• Retrieved Context Viewer
-
-Author : Himanshu Rajak
-=========================================================
-"""
 
 # =========================================================
 # Imports
